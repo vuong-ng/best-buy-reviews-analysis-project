@@ -1,0 +1,7 @@
+{
+  "sqlite": {
+    "dbdir": ".",
+    "database": "reviews",
+    "scheme": "sqlite"
+  }
+}
